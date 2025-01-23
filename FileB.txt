@@ -1,2 +1,2 @@
 This is File B
-Change made with featureA branch
+Change made with featureB branch
